@@ -38,5 +38,3 @@ console.log(evenFibonacciSum(10) + ' should equal 8');
 console.log(evenFibonacciSum(0) + ' should equal 0');
 console.log(evenFibonacciSum(100) + ' should equal 44');
 console.log(evenFibonacciSum(5) + ' should equal 2');
-
-console.log('Result for evenFibonacciSum(4000000): ' + evenFibonacciSum(4000000));
