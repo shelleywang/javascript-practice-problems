@@ -16,5 +16,3 @@ console.log(multiplesOf3Or5(10) + ' should be 23');
 console.log(multiplesOf3Or5(2) + ' should be 0');
 console.log(multiplesOf3Or5(5) + ' should be 3');
 console.log(multiplesOf3Or5(100) + ' should be 2318'); 
-
-console.log('Result for multiplesOf3Or5(1000): ' + multiplesOf3Or5(1000));
