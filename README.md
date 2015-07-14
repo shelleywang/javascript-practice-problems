@@ -15,6 +15,13 @@ Feel free to use this for your own practicing and just ignore all of my solution
 
 Cheers!
 
+## list of problems
+
+1. Numbers that are multiples of 3 or 5 
+2. Even fibonacci numbers 
+3. Finding numbers in a string 
+
 ## updates
 2015-07-13 : Renaming the repo. I learned that Project Euler prefers if solutions are not publicly posted, so I would like to disassociate this repo from them.
+
 2015-07-10 : Starting date!

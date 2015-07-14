@@ -6,7 +6,7 @@
 // The first 10 terms in the Fibonacci sequence are:
 // 0, 1, 1, 3, 5, 8, 13, 21, 34, ..
 
-// We want to look at the sum of all the even terms in the sequence 
+// We want to look at the sum of all the even terms in the Fibonacci sequence 
 // that are less than a given number. 
 
 
