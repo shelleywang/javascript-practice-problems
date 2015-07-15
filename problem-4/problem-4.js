@@ -1,4 +1,4 @@
-// ------------ Problem # ------------
+// ------------ Problem 4 ------------
 // --------- WHERE IS VASYA ----------
 // 
 // Vasya stands in line with number of people p (including Vasya), 
