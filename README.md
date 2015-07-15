@@ -20,7 +20,8 @@ Cheers!
 1. Numbers that are multiples of 3 or 5 
 2. Even fibonacci numbers 
 3. Finding numbers in a string
-4. Where is Vasya from [CodeWars](http://www.codewars.com/kata/554754ac9d8ac3be120000b2/) 
+4. Where is Vasya from [CodeWars](http://www.codewars.com/kata/554754ac9d8ac3be120000b2/)
+5. Vasya - Ticket change problem from [CodeWars](http://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/) 
 
 ## updates
 2015-07-13 : Renaming the repo. I learned that Project Euler prefers if solutions are not publicly posted, so I would like to disassociate this repo from them.
