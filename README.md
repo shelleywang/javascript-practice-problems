@@ -2,7 +2,7 @@
 
 ## about this repo
 
-I'm using this repo to keep track of my progress on working on some practice problems in Javascript. 
+I'm using this repo to keep track of some Javascript practice problems. 
 
 I will be sourcing the problems from a few different places, including: [CodeWars](http://www.codewars.com/), [Project Euler](https://projecteuler.net/), [Coderbyte](http://coderbyte.com/) 
 
@@ -28,3 +28,10 @@ Cheers!
 2015-07-13 : Renaming the repo. I learned that Project Euler prefers if solutions are not publicly posted, so I would like to disassociate this repo from them.
 
 2015-07-10 : Starting date!
+
+## about me
+Project Euler stats: ![projecteulericon](https://projecteuler.net/profile/shelleywang.png)
+
+[CodeWars profile](http://www.codewars.com/users/shelleywang)
+
+[CoderBytes profile](http://coderbyte.com/CodingArea/Profile/?user=ShelleyWang)
